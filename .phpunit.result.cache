@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Feature\\MoneyWorkflowTest::test_a_member_can_only_see_their_own_contributions":0.114,"Tests\\Feature\\MoneyWorkflowTest::test_only_the_assigned_treasurer_can_confirm_a_contribution":0.032,"Tests\\Feature\\MoneyWorkflowTest::test_loan_interest_is_ten_percent_and_repayment_updates_balance":0.042}}
