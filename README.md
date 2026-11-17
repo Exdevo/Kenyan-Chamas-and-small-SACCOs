@@ -1,7 +1,7 @@
 # Chama Ledger
 
 A Laravel 13 app for Kenyan Chamas and small SACCOs to keep member, contribution and loan records in one place. Amounts are shown in Kenyan shillings; the app records M-Pesa transaction codes but does not initiate M-Pesa payments.
-
+![image alt](https://github.com/Exdevo/Kenyan-Chamas-and-small-SACCOs/blob/e79efe3d11d71b707c16679f1754f23cfee8551e/screenshot-2026-11-17_13-41-51-chromium.png)
 ## Requirements
 
 - PHP 8.3+ with PDO MySQL (and SQLite for the test suite)
